@@ -58,7 +58,7 @@ namespace Cursed.UnlockAll
                                 itemId.DisplayName = fvrObject.DisplayName;
                                 itemId.SubHeading = fvrObject.ItemID;
                                 itemId.Category = ItemSpawnerID.EItemCategory.Misc;
-                                itemId.SubCategory = ItemSpawnerID.ESubCategory.Backpack;
+                                itemId.SubCategory = ItemSpawnerID.ESubCategory.BangerJunk;
                                 itemId.ItemID = fvrObject.ItemID;
                                 itemId.MainObject = fvrObject;
                                 itemId.Secondaries = new ItemSpawnerID[0];
